@@ -1,0 +1,52 @@
+/* Navbar Styles */
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo {
+    width: 23%;
+    padding: 1%;
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+}
+
+nav ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+/* Center images inside their containers */
+.logo img {
+    text-align: center;
+}
+
+/* Hero Image Styles */
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+
+.heroImg .content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #373738;
+    padding: 10px;
+}
+
+footer ul {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 20px; /* Adjust as needed */
+}
+
+footer li {
+    padding: 0 10px; /* Adjust as needed */
+}
